@@ -1,0 +1,989 @@
+[
+  {
+    "_id": "43d657c3-9fcb-4f9e-9258-d522495a4cc9",
+    "script": "test script",
+    "style": "minimal",
+    "videoSize": "9:16",
+    "status": "failed",
+    "scenes": [
+      {
+        "text": "test script",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      }
+    ],
+    "videoUrl": "",
+    "createdAt": "2026-03-07T09:22:33.704469Z"
+  },
+  {
+    "_id": "58a8fedd-b082-4bf6-b459-c438ca8d85c4",
+    "script": "success test",
+    "style": "neon",
+    "videoSize": "9:16",
+    "status": "failed",
+    "scenes": [
+      {
+        "text": "success test",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#000000",
+        "textColor": "#00ffff"
+      }
+    ],
+    "videoUrl": "",
+    "createdAt": "2026-03-07T09:28:14.574643Z"
+  },
+  {
+    "_id": "e76f4948-168d-4dfd-bc1b-7563c7fa0a61",
+    "script": "success test",
+    "style": "neon",
+    "videoSize": "9:16",
+    "status": "completed",
+    "scenes": [
+      {
+        "text": "success test",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#000000",
+        "textColor": "#00ffff"
+      }
+    ],
+    "videoUrl": "/api/video/download/e76f4948-168d-4dfd-bc1b-7563c7fa0a61",
+    "createdAt": "2026-03-07T09:30:40.186897Z"
+  },
+  {
+    "_id": "5a639896-0e15-4754-a1e2-e159ae0cbd48",
+    "script": "Hello World",
+    "style": "minimal",
+    "videoSize": "9:16",
+    "status": "completed",
+    "scenes": [
+      {
+        "text": "Hello World",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      }
+    ],
+    "videoUrl": "/api/video/download/5a639896-0e15-4754-a1e2-e159ae0cbd48",
+    "createdAt": "2026-03-07T09:33:28.686416Z"
+  },
+  {
+    "_id": "d741335a-dfb1-42c1-b603-47456d45f60b",
+    "script": "\ud83d\udea8 DSA kab start kare?\n1st Year?\nYa 3rd Year? \ud83e\udd2f\n\n[5-8 sec]\nSach suno\u2026\nGalat time pe start kiya\u2026\nToh regret pakka hai. \u26a0\ufe0f\n\n[9-14 sec]\n1st Year me ho? \ud83c\udf93\n\nToh sirf syntax seekh rahe ho?\nYa coding ka base bana rahe ho?\n\n[15-20 sec]\nReality \ud83d\udc47\nAgar 1st year me ho\u2026\nToh DSA ka basic start kar do.\n\nLight level se.\nPressure mat lo.\n\n[21-26 sec]\n3rd Year me ho? \ud83d\ude2c\n\nAb DSA start karoge?\nToh placements ke time panic hoga.\n\n[27-32 sec]\nCompanies resume nahi\u2026\nProblem solving dekhti hain. \ud83e\udde0\n\nAur DSA bina problem solving weak hoti hai.\n\n[33-38 sec]\nPerfect strategy kya hai? \ud83d\udc47\n\n1st Year \u2192 Basics + Logic building\n2nd Year \u2192 DSA seriously\n3rd Year \u2192 Practice + Mock Interviews\n\n[39-44 sec]\nLast year tak wait karna\u2026\nSabse badi mistake hai. \u274c\n\n[45-50 sec | Strong Close]\nDSA koi subject nahi hai\u2026\nYe skill hai. \ud83d\udd25\n\nJitna jaldi start karoge\u2026\nUtna smooth placement hoga. \ud83d\ude80",
+    "style": "minimal",
+    "videoSize": "16:9",
+    "status": "failed",
+    "scenes": [
+      {
+        "text": "\ud83d\udea8 DSA kab",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "start kare?\n1st Year?\nYa",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "3rd Year? \ud83e\udd2f\n\n[5-8",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "sec]\nSach suno\u2026\nGalat time",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "pe start kiya\u2026\nToh",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "regret pakka hai.",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "\u26a0\ufe0f\n\n[9-14 sec]\n1st Year",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "me ho? \ud83c\udf93\n\nToh",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "sirf syntax seekh",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "rahe ho?\nYa coding",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "ka base bana",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "rahe ho?\n\n[15-20 sec]\nReality",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "\ud83d\udc47\nAgar 1st year",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "me ho\u2026\nToh DSA",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "ka basic start",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "kar do.\n\nLight level",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "se.\nPressure mat lo.\n\n[21-26",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "sec]\n3rd Year me",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "ho? \ud83d\ude2c\n\nAb DSA",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "start karoge?\nToh placements",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "ke time panic",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "hoga.\n\n[27-32 sec]\nCompanies resume",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "nahi\u2026\nProblem solving dekhti",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "hain. \ud83e\udde0\n\nAur DSA",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "bina problem solving",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "weak hoti hai.\n\n[33-38",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "sec]\nPerfect strategy kya",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "hai? \ud83d\udc47\n\n1st Year",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "\u2192 Basics +",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "Logic building\n2nd Year",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "\u2192 DSA seriously\n3rd",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "Year \u2192 Practice",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "+ Mock Interviews\n\n[39-44",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "sec]\nLast year tak",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "wait karna\u2026\nSabse badi",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "mistake hai. \u274c\n\n[45-50",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "sec | Strong",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "Close]\nDSA koi subject",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "nahi hai\u2026\nYe skill",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "hai. \ud83d\udd25\n\nJitna jaldi",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "start karoge\u2026\nUtna smooth",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "placement hoga. \ud83d\ude80",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      }
+    ],
+    "videoUrl": "",
+    "createdAt": "2026-03-07T09:35:02.758316Z"
+  },
+  {
+    "_id": "dc67ff79-2074-4b1e-bf16-c63f2c8fd1dc",
+    "script": "\ud83d\udea8 DSA kab start kare?\n1st Year?\nYa 3rd Year? \ud83e\udd2f\n\n[5-8 sec]\nSach suno\u2026\nGalat time pe start kiya\u2026\nToh regret pakka hai. \u26a0\ufe0f\n\n[9-14 sec]\n1st Year me ho? \ud83c\udf93\n\nToh sirf syntax seekh rahe ho?\nYa coding ka base bana rahe ho?\n\n[15-20 sec]\nReality \ud83d\udc47\nAgar 1st year me ho\u2026\nToh DSA ka basic start kar do.\n\nLight level se.\nPressure mat lo.\n\n[21-26 sec]\n3rd Year me ho? \ud83d\ude2c\n\nAb DSA start karoge?\nToh placements ke time panic hoga.\n\n[27-32 sec]\nCompanies resume nahi\u2026\nProblem solving dekhti hain. \ud83e\udde0\n\nAur DSA bina problem solving weak hoti hai.\n\n[33-38 sec]\nPerfect strategy kya hai? \ud83d\udc47\n\n1st Year \u2192 Basics + Logic building\n2nd Year \u2192 DSA seriously\n3rd Year \u2192 Practice + Mock Interviews\n\n[39-44 sec]\nLast year tak wait karna\u2026\nSabse badi mistake hai. \u274c\n\n[45-50 sec | Strong Close]\nDSA koi subject nahi hai\u2026\nYe skill hai. \ud83d\udd25\n\nJitna jaldi start karoge\u2026\nUtna smooth placement hoga. \ud83d\ude80",
+    "style": "minimal",
+    "videoSize": "16:9",
+    "status": "failed",
+    "scenes": [
+      {
+        "text": "\ud83d\udea8 DSA kab",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "start kare?\n1st Year?\nYa",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "3rd Year? \ud83e\udd2f\n\n[5-8",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "sec]\nSach suno\u2026\nGalat time",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "pe start kiya\u2026\nToh",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "regret pakka hai.",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "\u26a0\ufe0f\n\n[9-14 sec]\n1st Year",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "me ho? \ud83c\udf93\n\nToh",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "sirf syntax seekh",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "rahe ho?\nYa coding",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "ka base bana",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "rahe ho?\n\n[15-20 sec]\nReality",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "\ud83d\udc47\nAgar 1st year",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "me ho\u2026\nToh DSA",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "ka basic start",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "kar do.\n\nLight level",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "se.\nPressure mat lo.\n\n[21-26",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "sec]\n3rd Year me",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "ho? \ud83d\ude2c\n\nAb DSA",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "start karoge?\nToh placements",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "ke time panic",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "hoga.\n\n[27-32 sec]\nCompanies resume",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "nahi\u2026\nProblem solving dekhti",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "hain. \ud83e\udde0\n\nAur DSA",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "bina problem solving",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "weak hoti hai.\n\n[33-38",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "sec]\nPerfect strategy kya",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "hai? \ud83d\udc47\n\n1st Year",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "\u2192 Basics +",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "Logic building\n2nd Year",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "\u2192 DSA seriously\n3rd",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "Year \u2192 Practice",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "+ Mock Interviews\n\n[39-44",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "sec]\nLast year tak",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "wait karna\u2026\nSabse badi",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      },
+      {
+        "text": "mistake hai. \u274c\n\n[45-50",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "sec | Strong",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "Close]\nDSA koi subject",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "nahi hai\u2026\nYe skill",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "hai. \ud83d\udd25\n\nJitna jaldi",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "start karoge\u2026\nUtna smooth",
+        "durationInSeconds": 2.0,
+        "animationType": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "placement hoga. \ud83d\ude80",
+        "durationInSeconds": 2.0,
+        "animationType": "scale",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      }
+    ],
+    "videoUrl": "",
+    "createdAt": "2026-03-07T09:37:22.710114Z"
+  },
+  {
+    "_id": "841ea01a-4b4c-4cb1-9b2c-c9b81367a8fe",
+    "script": "hello every one this is the ",
+    "style": "minimal",
+    "videoSize": "9:16",
+    "status": "completed",
+    "scenes": [
+      {
+        "text": "hello every one this",
+        "durationInSeconds": 15.0,
+        "animationType": "scale",
+        "transition": "crossfade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      },
+      {
+        "text": "is the",
+        "durationInSeconds": 15.0,
+        "animationType": "scale",
+        "transition": "crossfade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      }
+    ],
+    "videoUrl": "/api/video/download/841ea01a-4b4c-4cb1-9b2c-c9b81367a8fe",
+    "createdAt": "2026-03-07T11:26:20.255595Z"
+  },
+  {
+    "_id": "02dd03c6-7cfb-4360-898f-1c5d677c7938",
+    "script": "\ud83d\udea8 DSA kab start kare?\n1st Year?\nYa 3rd Year? \ud83e\udd2f\n\n[5-8 sec]\nSach suno\u2026\nGalat time pe start kiya\u2026\nToh regret pakka hai. \u26a0\ufe0f\n\n[9-14 sec]\n1st Year me ho? \ud83c\udf93\n\nToh sirf syntax seekh rahe ho?\nYa coding ka base bana rahe ho?\n\n[15-20 sec]\nReality \ud83d\udc47\nAgar 1st year me ho\u2026\nToh DSA ka basic start kar do.\n\nLight level se.\nPressure mat lo.\n\n[21-26 sec]\n3rd Year me ho? \ud83d\ude2c\n\nAb DSA start karoge?\nToh placements ke time panic hoga.\n\n[27-32 sec]\nCompanies resume nahi\u2026\nProblem solving dekhti hain. \ud83e\udde0\n\nAur DSA bina problem solving weak hoti hai.\n\n[33-38 sec]\nPerfect strategy kya hai? \ud83d\udc47\n\n1st Year \u2192 Basics + Logic building\n2nd Year \u2192 DSA seriously\n3rd Year \u2192 Practice + Mock Interviews\n\n[39-44 sec]\nLast year tak wait karna\u2026\nSabse badi mistake hai. \u274c\n\n[45-50 sec | Strong Close]\nDSA koi subject nahi hai\u2026\nYe skill hai. \ud83d\udd25\n\nJitna jaldi start karoge\u2026\nUtna smooth placement hoga. \ud83d\ude80",
+    "style": "cinematic",
+    "videoSize": "16:9",
+    "status": "failed",
+    "scenes": [
+      {
+        "text": "Sach suno\u2026\nGalat time pe start kiya\u2026\nToh regret pakka hai. \u26a0\ufe0f",
+        "durationInSeconds": 4.74,
+        "animationType": "zoom",
+        "transition": "fade",
+        "backgroundColor": "#1a1a2e",
+        "textColor": "#e94560"
+      },
+      {
+        "text": "1st Year me ho? \ud83c\udf93\n\nToh sirf syntax seekh rahe ho?\nYa coding ka base bana rahe ho?",
+        "durationInSeconds": 7.89,
+        "animationType": "zoom",
+        "transition": "fade",
+        "backgroundColor": "#1a1a2e",
+        "textColor": "#f1faee"
+      },
+      {
+        "text": "Reality \ud83d\udc47\nAgar 1st year me ho\u2026\nToh DSA ka basic start kar do.\n\nLight level se.\nPressure mat lo.",
+        "durationInSeconds": 7.89,
+        "animationType": "zoom",
+        "transition": "fade",
+        "backgroundColor": "#1a1a2e",
+        "textColor": "#f1faee"
+      },
+      {
+        "text": "3rd Year me ho? \ud83d\ude2c\n\nAb DSA start karoge?\nToh placements ke time panic hoga.",
+        "durationInSeconds": 7.89,
+        "animationType": "zoom",
+        "transition": "fade",
+        "backgroundColor": "#1a1a2e",
+        "textColor": "#e94560"
+      },
+      {
+        "text": "Companies resume nahi\u2026\nProblem solving dekhti hain. \ud83e\udde0\n\nAur DSA bina problem solving weak hoti hai.",
+        "durationInSeconds": 7.89,
+        "animationType": "zoom",
+        "transition": "fade",
+        "backgroundColor": "#1a1a2e",
+        "textColor": "#f1faee"
+      },
+      {
+        "text": "Perfect strategy kya hai? \ud83d\udc47\n\n1st Year \u2192 Basics + Logic building\n2nd Year \u2192 DSA seriously\n3rd Year \u2192 Practice + Mock Interviews",
+        "durationInSeconds": 7.89,
+        "animationType": "zoom",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#e94560"
+      },
+      {
+        "text": "Last year tak wait karna\u2026\nSabse badi mistake hai. \u274c",
+        "durationInSeconds": 7.89,
+        "animationType": "zoom",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#e94560"
+      },
+      {
+        "text": "DSA koi subject nahi hai\u2026\nYe skill hai. \ud83d\udd25\n\nJitna jaldi start karoge\u2026\nUtna smooth placement hoga. \ud83d\ude80",
+        "durationInSeconds": 7.89,
+        "animationType": "zoom",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#e94560"
+      }
+    ],
+    "videoUrl": "",
+    "createdAt": "2026-03-07T11:35:13.962740Z"
+  },
+  {
+    "_id": "c189b7ca-2d1e-46e5-a07e-b9ae8f9a1b23",
+    "script": "DSA kab start kare?\n1st Year?\nYa 3rd Year? \ud83e\udd2f\n\n[5-8 sec]\nSach suno\u2026\nGalat time pe start kiya\u2026\nToh regret pakka hai. \u26a0\ufe0f\n\n[9-14 sec]\n1st Year me ho? \ud83c\udf93\n\nToh sirf syntax seekh rahe ho?\nYa coding ka base bana rahe ho?\n\n[15-20 sec]\nReality \ud83d\udc47\nAgar 1st year me ho\u2026\nToh DSA ka basic start kar do.\n\nLight level se.\nPressure mat lo.\n\n[21-26 sec]\n3rd Year me ho? \ud83d\ude2c\n\nAb DSA start karoge?\nToh placements ke time panic hoga.\n\n[27-32 sec]\nCompanies resume nahi\u2026\nProblem solving dekhti hain. \ud83e\udde0\n\nAur DSA bina problem solving weak hoti hai.\n\n[33-38 sec]\nPerfect strategy kya hai? \ud83d\udc47\n\n1st Year \u2192 Basics + Logic building\n2nd Year \u2192 DSA seriously\n3rd Year \u2192 Practice + Mock Interviews\n\n[39-44 sec]\nLast year tak wait karna\u2026\nSabse badi mistake hai. \u274c\n\n[45-50 sec | Strong Close]\nDSA koi subject nahi hai\u2026\nYe skill hai. \ud83d\udd25\n\nJitna jaldi start karoge\u2026\nUtna smooth placement hoga. \ud83d\ude80",
+    "style": "cinematic",
+    "videoSize": "16:9",
+    "status": "completed",
+    "scenes": [
+      {
+        "text": "Sach suno\u2026\nGalat time pe start kiya\u2026\nToh regret pakka hai. \u26a0\ufe0f",
+        "durationInSeconds": 4.74,
+        "animationType": "bounce",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#e94560"
+      },
+      {
+        "text": "1st Year me ho? \ud83c\udf93\n\nToh sirf syntax seekh rahe ho?\nYa coding ka base bana rahe ho?",
+        "durationInSeconds": 7.89,
+        "animationType": "bounce",
+        "transition": "fade",
+        "backgroundColor": "#1a1a2e",
+        "textColor": "#f1faee"
+      },
+      {
+        "text": "Reality \ud83d\udc47\nAgar 1st year me ho\u2026\nToh DSA ka basic start kar do.\n\nLight level se.\nPressure mat lo.",
+        "durationInSeconds": 7.89,
+        "animationType": "bounce",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#f1faee"
+      },
+      {
+        "text": "3rd Year me ho? \ud83d\ude2c\n\nAb DSA start karoge?\nToh placements ke time panic hoga.",
+        "durationInSeconds": 7.89,
+        "animationType": "bounce",
+        "transition": "fade",
+        "backgroundColor": "#1a1a2e",
+        "textColor": "#e94560"
+      },
+      {
+        "text": "Companies resume nahi\u2026\nProblem solving dekhti hain. \ud83e\udde0\n\nAur DSA bina problem solving weak hoti hai.",
+        "durationInSeconds": 7.89,
+        "animationType": "bounce",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#f1faee"
+      },
+      {
+        "text": "Perfect strategy kya hai? \ud83d\udc47\n\n1st Year \u2192 Basics + Logic building\n2nd Year \u2192 DSA seriously\n3rd Year \u2192 Practice + Mock Interviews",
+        "durationInSeconds": 7.89,
+        "animationType": "bounce",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#f1faee"
+      },
+      {
+        "text": "Last year tak wait karna\u2026\nSabse badi mistake hai. \u274c",
+        "durationInSeconds": 7.89,
+        "animationType": "bounce",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#e94560"
+      },
+      {
+        "text": "DSA koi subject nahi hai\u2026\nYe skill hai. \ud83d\udd25\n\nJitna jaldi start karoge\u2026\nUtna smooth placement hoga. \ud83d\ude80",
+        "durationInSeconds": 7.89,
+        "animationType": "bounce",
+        "transition": "fade",
+        "backgroundColor": "#16213e",
+        "textColor": "#e94560"
+      }
+    ],
+    "videoUrl": "/api/video/download/c189b7ca-2d1e-46e5-a07e-b9ae8f9a1b23",
+    "createdAt": "2026-03-10T19:17:47.145497Z"
+  },
+  {
+    "_id": "b49de64c-8bad-447a-a091-c75d17001e1c",
+    "script": "new feature",
+    "style": "minimal",
+    "videoSize": "9:16",
+    "status": "failed",
+    "progress": 0,
+    "scenes": [
+      {
+        "text": "new feature",
+        "durationInSeconds": 2.5,
+        "animationType": "scale",
+        "transition": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#94a3b8"
+      }
+    ],
+    "videoUrl": "",
+    "userId": "1",
+    "createdAt": "2026-03-11T09:45:07.585741Z"
+  },
+  {
+    "type": "user",
+    "_id": "8eae0814-35c0-4ec7-a88c-26f3c7a9f688",
+    "name": "vaibhaw srivastav",
+    "email": "vaibhawteach12@gmail.com",
+    "password": "12345678",
+    "phone_number": "+915554526225",
+    "createdAt": "2026-03-11T10:05:33.262533Z"
+  },
+  {
+    "type": "user",
+    "_id": "9e8a7954-adc3-4dc4-84a8-41a378cef471",
+    "name": "kjkj",
+    "email": "vaibhawteac12@gmail.com",
+    "password": "12345678",
+    "phone_number": "3535635242",
+    "createdAt": "2026-03-13T09:37:12.648147Z",
+    "plan": "Creator",
+    "plan_start_date": "2026-03-13T13:14:33.268287Z"
+  },
+  {
+    "type": "payment",
+    "_id": "32da33e8-62f6-4624-8d1a-129a3258f394",
+    "user_id": "9e8a7954-adc3-4dc4-84a8-41a378cef471",
+    "payer_name": "kjkj",
+    "email": "vaibhawteac12@gmail.com",
+    "phone_number": "3535635242",
+    "plan_name": "Starter",
+    "amount": 15.0,
+    "status": "pending",
+    "createdAt": "2026-03-13T09:39:41.918163Z"
+  },
+  {
+    "_id": "a3c9925d-0f32-4e91-8ccc-f0fd0ed72cd8",
+    "script": "test script",
+    "style": "minimal",
+    "videoSize": "9:16",
+    "status": "pending",
+    "progress": 0,
+    "scenes": [
+      {
+        "text": "test script",
+        "durationInSeconds": 2.5,
+        "animationType": "scale",
+        "transition": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      }
+    ],
+    "videoUrl": "",
+    "userId": "admin",
+    "createdAt": "2026-03-13T10:20:50.392682Z"
+  },
+  {
+    "_id": "b7eaddc9-b3f4-4d17-9ddb-0749d1a3302e",
+    "script": "Test video generation",
+    "style": "minimal",
+    "videoSize": "9:16",
+    "status": "failed",
+    "progress": 0,
+    "scenes": [
+      {
+        "text": "Test video generation",
+        "durationInSeconds": 2.5,
+        "animationType": "scale",
+        "transition": "fade",
+        "backgroundColor": "#1e293b",
+        "textColor": "#ffffff"
+      }
+    ],
+    "videoUrl": "",
+    "userId": "9e8a7954-adc3-4dc4-84a8-41a378cef471",
+    "createdAt": "2026-03-13T13:05:06.385328Z"
+  },
+  {
+    "type": "payment",
+    "_id": "592e95e9-aced-4771-bd1a-cfc51a72907d",
+    "user_id": "9e8a7954-adc3-4dc4-84a8-41a378cef471",
+    "payer_name": "Jetski Tester",
+    "email": "vaibhawteac12@gmail.com",
+    "phone_number": "1234567890",
+    "plan_name": "Creator",
+    "amount": 30.0,
+    "status": "pending",
+    "createdAt": "2026-03-13T13:14:33.268206Z"
+  },
+  {
+    "_id": "4d1e201a-ed56-412f-beb2-c019ca838e16",
+    "script": "Test video generation final",
+    "style": "minimal",
+    "videoSize": "9:16",
+    "status": "failed",
+    "progress": 80,
+    "scenes": [
+      {
+        "text": "Test video generation final",
+        "durationInSeconds": 2.5,
+        "animationType": "scale",
+        "transition": "fade",
+        "backgroundColor": "#0f172a",
+        "textColor": "#94a3b8"
+      }
+    ],
+    "videoUrl": "",
+    "userId": "9e8a7954-adc3-4dc4-84a8-41a378cef471",
+    "createdAt": "2026-03-13T13:15:00.353180Z"
+  }
+]
